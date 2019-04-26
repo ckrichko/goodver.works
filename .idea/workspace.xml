@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d352fa62-52a5-426c-8cc4-4ab5b3315a3d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/barbershop" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sedona" afterPath="$PROJECT_DIR$/sedona" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="generinox.github.io" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nerds/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="891">
+              <caret line="99" column="74" lean-forward="false" selection-start-line="99" selection-start-column="74" selection-end-line="99" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>button</find>
+      <find>like</find>
+      <find>.survey-form__label</find>
+      <find>justi</find>
+      <find>100</find>
+      <find>survey-form__emotions</find>
+      <find>survey-form__message</find>
+      <find>gallery__link</find>
+      <find>.gallery__link</find>
+      <find>.gallery__link {</find>
+      <find>wrapp</find>
+      <find>//</find>
+      <find>gallery__image-wrapper</find>
+      <find>теле</find>
+      <find>телеф</find>
+      <find>survey-form__sights-container</find>
+      <find>icon-phone</find>
+      <find>58</find>
+      <find>padding-bottom: 58px;</find>
+      <find>.survey-form__message {</find>
+      <find>features__image-wrapper</find>
+      <find>неро</find>
+      <find>bac</find>
+      <find>bef</find>
+      <find>text-sedona.svg</find>
+      <find>text-sedona-index.svg</find>
+      <find>text-sedona-index</find>
+      <find>.main-header</find>
+      <find>768</find>
+      <find>width: 768px;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>features__title</replace>
+      <replace>features__number</replace>
+      <replace>features__text</replace>
+      <replace>&quot;</replace>
+      <replace>$main-font</replace>
+      <replace>$main-font;</replace>
+      <replace>main-font</replace>
+      <replace>main-font__regular</replace>
+      <replace>main-nav__logo-img</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/technomart/index.html" />
+        <option value="$PROJECT_DIR$/technomart/css/normalize.css" />
+        <option value="$PROJECT_DIR$/../349627-nerds/index.html" />
+        <option value="$PROJECT_DIR$/nerds/js/script.js" />
+        <option value="$PROJECT_DIR$/../349627-nerds/catalog.html" />
+        <option value="$PROJECT_DIR$/nerds/css/style.css" />
+        <option value="$PROJECT_DIR$/nerds/catalog.html" />
+        <option value="$PROJECT_DIR$/barbershop/index.html" />
+        <option value="$PROJECT_DIR$/nerds/index.html" />
+        <option value="$PROJECT_DIR$/../sedona/sass/main-header.scss" />
+        <option value="$PROJECT_DIR$/../sedona/sass/blocks/site-list.scss" />
+        <option value="$PROJECT_DIR$/../sedona/sass/blocks/text-block.scss" />
+        <option value="$PROJECT_DIR$/../sedona/sass/blocks/modal-failure.scss" />
+        <option value="$PROJECT_DIR$/../sedona/sass/blocks/page-main.scss" />
+        <option value="$PROJECT_DIR$/../sedona/sass/global/fonts.scss" />
+        <option value="$PROJECT_DIR$/../sedona/sass/blocks/visually-hidden.scss" />
+        <option value="$PROJECT_DIR$/../sedona/img/svg-sprite.svg" />
+        <option value="$PROJECT_DIR$/../sedona/img/sprite.svg" />
+        <option value="$PROJECT_DIR$/../sedona/sass/global/layout.scss" />
+        <option value="$PROJECT_DIR$/../sedona/js/menu.js" />
+        <option value="$PROJECT_DIR$/../sedona/js/map.js" />
+        <option value="$PROJECT_DIR$/../sedona/sass/blocks/social.scss" />
+        <option value="$PROJECT_DIR$/../sedona/sass/mixins.scss" />
+        <option value="$PROJECT_DIR$/../sedona/sass/blocks/main-nav.scss" />
+        <option value="$PROJECT_DIR$/../sedona/sass/blocks/search-info.scss" />
+        <option value="$PROJECT_DIR$/../sedona/sass/blocks/footer.scss" />
+        <option value="$PROJECT_DIR$/../sedona/sass/style.scss" />
+        <option value="$PROJECT_DIR$/../sedona/sass/blocks/popup.scss" />
+        <option value="$PROJECT_DIR$/../sedona/sass/blocks/like.scss" />
+        <option value="$PROJECT_DIR$/../sedona/sass/blocks/wrapper.scss" />
+        <option value="$PROJECT_DIR$/../sedona/sass/blocks/review.scss" />
+        <option value="$PROJECT_DIR$/../sedona/sass/blocks/survey-form.scss" />
+        <option value="$PROJECT_DIR$/../sedona/sass/variables.scss" />
+        <option value="$PROJECT_DIR$/../sedona/sass/blocks/video.scss" />
+        <option value="$PROJECT_DIR$/../sedona/sass/blocks/map.scss" />
+        <option value="$PROJECT_DIR$/../sedona/js/picturefill.min.js" />
+        <option value="$PROJECT_DIR$/../sedona/sass/blocks/features.scss" />
+        <option value="$PROJECT_DIR$/../sedona/sass/blocks/promo.scss" />
+        <option value="$PROJECT_DIR$/../sedona/photo.html" />
+        <option value="$PROJECT_DIR$/../sedona/form.html" />
+        <option value="$PROJECT_DIR$/../sedona/index.html" />
+        <option value="$PROJECT_DIR$/../sedona/sass/blocks/button.scss" />
+        <option value="$PROJECT_DIR$/../sedona/sass/blocks/gallery.scss" />
+        <option value="$PROJECT_DIR$/../sedona/sass/blocks/main-header.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/kekstagram/node_modules" />
+    <handled-path value="$PROJECT_DIR$/sedona/node_modules" />
+    <handled-path value="$PROJECT_DIR$/../sedona/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/kekstagram/package.json" />
+      <path value="$PROJECT_DIR$/sedona/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-14" />
+    <option name="y" value="-14" />
+    <option name="width" value="1285" />
+    <option name="height" value="1388" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code quality toolsCSS</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Stylelint</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value=".main-header&#9;null&#9;null&#10;main-header &#9;null&#9;null&#10;main-hea&#9;null&#9;null&#10;width: 768px;&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/../sedona/node_modules/stylelint" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration name="form.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/generinox.github.io/form.html" />
+    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/generinox.github.io/barbershop/index.html" />
+    <configuration name="index.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/generinox.github.io/index.html" />
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/generinox.github.io/nerds/index.html" />
+    <configuration name="photo.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/generinox.github.io/photo.html" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.form.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.photo.html" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.photo.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.form.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d352fa62-52a5-426c-8cc4-4ab5b3315a3d" name="Default" comment="" />
+      <created>1497472110013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1497472110013</updated>
+      <workItem from="1497472111295" duration="792000" />
+      <workItem from="1497558217860" duration="3640000" />
+      <workItem from="1497601543066" duration="4022000" />
+      <workItem from="1497620002291" duration="6906000" />
+      <workItem from="1497629130617" duration="38000" />
+      <workItem from="1497635125286" duration="3585000" />
+      <workItem from="1497643303146" duration="463000" />
+      <workItem from="1497727634062" duration="2175000" />
+      <workItem from="1497808051229" duration="1272000" />
+      <workItem from="1497893958950" duration="2330000" />
+      <workItem from="1497989670528" duration="3416000" />
+      <workItem from="1498075381814" duration="355000" />
+      <workItem from="1498076951990" duration="2969000" />
+      <workItem from="1499768796051" duration="13000" />
+      <workItem from="1499856358673" duration="68000" />
+      <workItem from="1499873621148" duration="7000" />
+      <workItem from="1499939308716" duration="2000" />
+      <workItem from="1502793989264" duration="30000" />
+      <workItem from="1502794052561" duration="143000" />
+      <workItem from="1503055912273" duration="2182000" />
+      <workItem from="1503240686254" duration="14231000" />
+      <workItem from="1503336724487" duration="5199000" />
+      <workItem from="1503343838316" duration="2311000" />
+      <workItem from="1503390364701" duration="6645000" />
+      <workItem from="1503421722185" duration="4847000" />
+      <workItem from="1503492306496" duration="312000" />
+      <workItem from="1503507018483" duration="618000" />
+      <workItem from="1503565713340" duration="24000" />
+      <workItem from="1503566564361" duration="4289000" />
+      <workItem from="1503588769492" duration="10849000" />
+      <workItem from="1503644010376" duration="2350000" />
+      <workItem from="1503653276024" duration="3606000" />
+      <workItem from="1503670137503" duration="2179000" />
+      <workItem from="1503739894863" duration="15738000" />
+      <workItem from="1503818896049" duration="889000" />
+      <workItem from="1503848920358" duration="12325000" />
+      <workItem from="1503918384525" duration="6009000" />
+      <workItem from="1503933341536" duration="15846000" />
+      <workItem from="1503955624377" duration="66000" />
+      <workItem from="1504001010590" duration="10511000" />
+      <workItem from="1504024911648" duration="11541000" />
+      <workItem from="1504040458712" duration="50000" />
+      <workItem from="1504091074640" duration="4975000" />
+      <workItem from="1504103712657" duration="18836000" />
+      <workItem from="1504130470298" duration="44000" />
+      <workItem from="1504147639468" duration="14887000" />
+      <workItem from="1504168591152" duration="15965000" />
+      <workItem from="1504188646965" duration="5746000" />
+      <workItem from="1504201225076" duration="2707000" />
+      <workItem from="1504204623951" duration="3013000" />
+      <workItem from="1504209361515" duration="419000" />
+      <workItem from="1504210145258" duration="530000" />
+      <workItem from="1504211366910" duration="607000" />
+      <workItem from="1504245287073" duration="1691000" />
+      <workItem from="1504258780677" duration="4989000" />
+      <workItem from="1504266630027" duration="22854000" />
+      <workItem from="1504300855061" duration="2638000" />
+      <workItem from="1504348665375" duration="1930000" />
+      <workItem from="1504353176572" duration="1203000" />
+      <workItem from="1504356397348" duration="506000" />
+      <workItem from="1504357335388" duration="131000" />
+      <workItem from="1504357822943" duration="14000" />
+      <workItem from="1504703675018" duration="914000" />
+      <workItem from="1505760162971" duration="167000" />
+      <workItem from="1505760356065" duration="599000" />
+      <workItem from="1505884930197" duration="409000" />
+      <workItem from="1505887746746" duration="38000" />
+      <workItem from="1505887789032" duration="628000" />
+      <workItem from="1505896854756" duration="84000" />
+      <workItem from="1505910460646" duration="496000" />
+      <workItem from="1505910982854" duration="1236000" />
+      <workItem from="1505912244730" duration="808000" />
+      <workItem from="1505913075096" duration="173000" />
+      <workItem from="1505913285823" duration="367000" />
+      <workItem from="1505913715424" duration="112000" />
+      <workItem from="1505920907367" duration="1059000" />
+      <workItem from="1505929205770" duration="11000" />
+      <workItem from="1505929377263" duration="276000" />
+      <workItem from="1505929677525" duration="999000" />
+      <workItem from="1506171552551" duration="48000" />
+      <workItem from="1506171623995" duration="13796000" />
+      <workItem from="1506267043238" duration="10751000" />
+      <workItem from="1506339665476" duration="6247000" />
+      <workItem from="1506352347062" duration="2008000" />
+      <workItem from="1506358531016" duration="916000" />
+      <workItem from="1506420637798" duration="1460000" />
+      <workItem from="1506423463140" duration="35000" />
+      <workItem from="1506458617127" duration="1319000" />
+      <workItem from="1506593605482" duration="2551000" />
+      <workItem from="1506599711442" duration="12000" />
+      <workItem from="1506606563705" duration="35287000" />
+      <workItem from="1506678693474" duration="1408000" />
+      <workItem from="1506682963479" duration="9574000" />
+      <workItem from="1506695757822" duration="14944000" />
+      <workItem from="1506858528647" duration="26000" />
+      <workItem from="1506876372866" duration="1334000" />
+      <workItem from="1506931098103" duration="1327000" />
+      <workItem from="1506966767600" duration="6043000" />
+      <workItem from="1507038981685" duration="34009000" />
+      <workItem from="1507097063094" duration="41917000" />
+      <workItem from="1507146984911" duration="77000" />
+      <workItem from="1507147156897" duration="3352000" />
+      <workItem from="1507183125069" duration="1496000" />
+      <workItem from="1507217231740" duration="3921000" />
+      <workItem from="1507221264747" duration="1695000" />
+      <workItem from="1507223129712" duration="8101000" />
+      <workItem from="1507237813857" duration="856000" />
+      <workItem from="1507267514953" duration="11544000" />
+      <workItem from="1507287070506" duration="35195000" />
+      <workItem from="1507357496729" duration="31371000" />
+      <workItem from="1507448660894" duration="55754000" />
+      <workItem from="1507527800130" duration="21444000" />
+      <workItem from="1507567600133" duration="14401000" />
+      <workItem from="1507621975174" duration="18790000" />
+      <workItem from="1507645499896" duration="15437000" />
+      <workItem from="1507666291524" duration="13584000" />
+      <workItem from="1507698318604" duration="8249000" />
+      <workItem from="1507713206551" duration="2817000" />
+      <workItem from="1507813614874" duration="4175000" />
+      <workItem from="1507827808075" duration="11197000" />
+      <workItem from="1507885623695" duration="7862000" />
+      <workItem from="1507894816369" duration="717000" />
+      <workItem from="1507970453120" duration="9000" />
+      <workItem from="1507976529240" duration="1188000" />
+      <workItem from="1507981877023" duration="5000" />
+      <workItem from="1507982075305" duration="486000" />
+      <workItem from="1507988566791" duration="4015000" />
+      <workItem from="1507994249437" duration="470000" />
+      <workItem from="1507994998228" duration="566000" />
+      <workItem from="1507995586542" duration="481000" />
+      <workItem from="1507996417729" duration="94000" />
+      <workItem from="1507996533371" duration="17000" />
+      <workItem from="1507996554862" duration="6000" />
+      <workItem from="1547205705212" duration="1006000" />
+      <workItem from="1547209007114" duration="108000" />
+      <workItem from="1547209522583" duration="2000" />
+      <workItem from="1547210801858" duration="30000" />
+      <workItem from="1547210867360" duration="104000" />
+      <workItem from="1547211584554" duration="3477000" />
+      <workItem from="1547475686555" duration="1786000" />
+      <workItem from="1547929500184" duration="599000" />
+      <workItem from="1548169825799" duration="2000" />
+    </task>
+    <task id="LOCAL-00001" summary="Техномарт разметка">
+      <created>1497472278716</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1497472278716</updated>
+    </task>
+    <task id="LOCAL-00002" summary="базовые стили CSS">
+      <created>1497558536807</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1497558536807</updated>
+    </task>
+    <task id="LOCAL-00003" summary="добавлена стилизация класса visually-hidden">
+      <created>1497559043497</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1497559043497</updated>
+    </task>
+    <task id="LOCAL-00004" summary="добавлен normalize.css">
+      <created>1497559119146</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1497559119146</updated>
+    </task>
+    <task id="LOCAL-00005" summary="добавлены файлы других проектов">
+      <created>1497560368836</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1497560368836</updated>
+    </task>
+    <task id="LOCAL-00006" summary="разметка хедера блоками flex">
+      <created>1497621219218</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1497621219218</updated>
+    </task>
+    <task id="LOCAL-00007" summary="разметка order и features блоками flex">
+      <created>1497626139665</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1497626139665</updated>
+    </task>
+    <task id="LOCAL-00008" summary="подключён шрифт Roboto">
+      <created>1497626774107</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1497626774107</updated>
+    </task>
+    <task id="LOCAL-00009" summary="разметка футера">
+      <created>1497629155781</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1497629155781</updated>
+    </task>
+    <task id="LOCAL-00010" summary="более точная разметка">
+      <created>1497637494342</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1497637494342</updated>
+    </task>
+    <task id="LOCAL-00011" summary="добавлены проекты">
+      <created>1497643030969</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1497643030969</updated>
+    </task>
+    <task id="LOCAL-00012" summary="обновлён спрайт">
+      <created>1497643450838</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1497643450838</updated>
+    </task>
+    <task id="LOCAL-00013" summary="таблица на CSS">
+      <created>1497729204900</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1497729204900</updated>
+    </task>
+    <task id="LOCAL-00014" summary="футер на flex">
+      <created>1497808555481</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1497808555481</updated>
+    </task>
+    <task id="LOCAL-00015" summary="добавлена карта в качестве фона">
+      <created>1497896274932</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1497896274932</updated>
+    </task>
+    <task id="LOCAL-00016" summary="центровка на странице">
+      <created>1497990397891</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1497990397891</updated>
+    </task>
+    <task id="LOCAL-00017" summary="рамка на projects">
+      <created>1497991180592</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1497991180592</updated>
+    </task>
+    <task id="LOCAL-00018" summary="круглые ссылки в футере">
+      <created>1497991396747</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1497991396747</updated>
+    </task>
+    <task id="LOCAL-00019" summary="иконки соцсетей">
+      <created>1497992398978</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1497992398978</updated>
+    </task>
+    <task id="LOCAL-00020" summary="страница каталога">
+      <created>1498078196094</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1498078196094</updated>
+    </task>
+    <task id="LOCAL-00021" summary="страница каталога">
+      <created>1498078766940</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1498078766940</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Обновлены изображения. Часть из них заменены на векторные.">
+      <created>1503057741936</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1503057741936</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Обновлены изображения. Сделан слайдер на главной странице.">
+      <created>1503492348711</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1503492348711</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Добавлена форма входа. Подключены векторные иконки.">
+      <created>1503819762998</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1503819762998</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Доработана форма входа.">
+      <created>1503867771899</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1503867771899</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Доработан js для формы входа.">
+      <created>1503955657062</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1503955657062</updated>
+    </task>
+    <task id="LOCAL-00027" summary="размечена 2-я страница - каталог">
+      <created>1504040496597</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1504040496597</updated>
+    </task>
+    <task id="LOCAL-00028" summary="добавлен paginator">
+      <created>1504098148037</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1504098148037</updated>
+    </task>
+    <task id="LOCAL-00029" summary="доделана верхняя строка фильтров в каталоге">
+      <created>1504130501072</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1504130501072</updated>
+    </task>
+    <task id="LOCAL-00030" summary="добавлены фильтры в каталог">
+      <created>1504174110500</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1504174110500</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Доработаны последние замечания">
+      <created>1504303268941</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1504303268941</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="748402000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-12" y="-12" width="2584" height="1394" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24979855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/barbershop" />
+      <path value="$PROJECT_DIR$/../sedona" />
+    </ignored-roots>
+    <MESSAGE value="разметка футера" />
+    <MESSAGE value="более точная разметка" />
+    <MESSAGE value="добавлены проекты" />
+    <MESSAGE value="обновлён спрайт" />
+    <MESSAGE value="таблица на CSS" />
+    <MESSAGE value="футер на flex" />
+    <MESSAGE value="добавлена карта в качестве фона" />
+    <MESSAGE value="центровка на странице" />
+    <MESSAGE value="рамка на projects" />
+    <MESSAGE value="круглые ссылки в футере" />
+    <MESSAGE value="иконки соцсетей" />
+    <MESSAGE value="страница каталога" />
+    <MESSAGE value="Обновлены изображения. Часть из них заменены на векторные." />
+    <MESSAGE value="Обновлены изображения. Сделан слайдер на главной странице." />
+    <MESSAGE value="Добавлена форма входа. Подключены векторные иконки." />
+    <MESSAGE value="Доработана форма входа." />
+    <MESSAGE value="Доработан js для формы входа." />
+    <MESSAGE value="размечена 2-я страница каталога" />
+    <MESSAGE value="размечена 2-я страница - каталог" />
+    <MESSAGE value="добавлен paginator" />
+    <MESSAGE value="доделана верхняя строка фильтров в каталоге" />
+    <MESSAGE value="добавлены фильтры в каталог" />
+    <MESSAGE value="Исправлена таблица на главной странице" />
+    <MESSAGE value="На второй странице добавлены состояния для заблокированных чекбоксов и радиокнопок" />
+    <MESSAGE value="Доработаны последние замечания" />
+    <option name="LAST_COMMIT_MESSAGE" value="Доработаны последние замечания" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../349627-nerds/index.html" />
+    <entry file="file://$PROJECT_DIR$/nerds/css/style.min.css" />
+    <entry file="file://$PROJECT_DIR$/nerds/img/browser.svg" />
+    <entry file="file://$PROJECT_DIR$/barbershop/index.html" />
+    <entry file="file://$PROJECT_DIR$/../sedona/.editorconfig" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/main-header.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/blocks/site-list.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/package.json" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/blocks/text-block.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/blocks/promo-image.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/blocks/modal-failure.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/blocks/modal-success.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/global/fonts.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/README" />
+    <entry file="file://$PROJECT_DIR$/../sedona/img/svg-sprite.svg" />
+    <entry file="file://$PROJECT_DIR$/../sedona/img/sprite.svg" />
+    <entry file="file://$PROJECT_DIR$/../sedona/js/menu.js" />
+    <entry file="file://$PROJECT_DIR$/../sedona/js/map.js" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/blocks/visually-hidden.scss" />
+    <entry file="file://$PROJECT_DIR$/nerds/catalog.html" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/blocks/social.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/mixins.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/img/photo-city-tablet@1x.jpg" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/blocks/search-info.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/global/layout.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/blocks/popup.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/blocks/page-main.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/blocks/review.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/blocks/survey-form.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/blocks/map.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/blocks/video.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/variables.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/js/picturefill.min.js" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/blocks/promo.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/photo.html" />
+    <entry file="file://$PROJECT_DIR$/../sedona/form.html" />
+    <entry file="file://$PROJECT_DIR$/../sedona/index.html" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/blocks/button.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/blocks/features.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/blocks/footer.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/blocks/gallery.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/blocks/like.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/blocks/main-nav.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/blocks/wrapper.scss" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/style.scss" />
+    <entry file="file://$PROJECT_DIR$/sedona/css/style.min.css" />
+    <entry file="file://$PROJECT_DIR$/nerds/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/../sedona/sass/blocks/main-header.scss" />
+    <entry file="file://X:/study/Tools/Стили для разметки сетки блоками/blockstyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nerds/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="99" column="74" lean-forward="false" selection-start-line="99" selection-start-column="74" selection-end-line="99" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
